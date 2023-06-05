@@ -15,5 +15,3 @@ Spades: 1
 Clover: 2
 Hearts: 3
 Diamonds: 4
-
-Screenshot.png
