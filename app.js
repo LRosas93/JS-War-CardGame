@@ -1,8 +1,8 @@
 class Card {
     suits = ["Spades",
+             "Clover",
              "Hearts",
-             "Diamonds",
-             "Clover"]
+             "Diamonds"]
     
     values = [null, null, "2", "3",
               "4", "5", "6", "7",
