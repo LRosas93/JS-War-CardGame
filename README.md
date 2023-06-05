@@ -15,3 +15,5 @@ Spades: 1
 Clover: 2
 Hearts: 3
 Diamonds: 4
+
+![Screenshot](https://github.com/LRosas93/JS-War-CardGame/assets/71421190/78037406-2967-4b21-b86e-fa35f94291ff)
